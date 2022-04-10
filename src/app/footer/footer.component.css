@@ -1,0 +1,23 @@
+body{
+  height: 33vh;
+  background-color: #e8e6e3;
+}
+i{
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  background-color: rgb(166, 158, 146);;
+}
+.icons1{
+  flex-wrap: nowrap;
+  flex-direction: row;
+  display: flex ;
+  justify-content: center ;
+  align-items: center ;
+}
+.fa{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
