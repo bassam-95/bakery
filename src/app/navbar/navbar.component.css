@@ -1,0 +1,10 @@
+nav{
+  position: sticky !important ;
+  top: 0;
+  overflow:hidden;
+}
+img{
+  width: 150px;
+  height: 40px;
+  margin-left: 3rem;
+}
